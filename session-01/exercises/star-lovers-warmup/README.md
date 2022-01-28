@@ -1,4 +1,4 @@
-# Star Lovers Challenge
+# Star Lovers
 
 [https://lab.cs50.io/Laboratoria/gym-exercises/main/star-lovers-warmup/](https://lab.cs50.io/Laboratoria/gym-exercises/main/star-lovers-warmup/)
 
