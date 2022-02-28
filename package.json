@@ -1,0 +1,19 @@
+{
+  "name": "scl019-gym",
+  "version": "1.0.0",
+  "description": "## Sesiones",
+  "main": "createNewGymSession.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laboratoria/SCL019-gym.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laboratoria/SCL019-gym/issues"
+  },
+  "homepage": "https://github.com/Laboratoria/SCL019-gym#readme"
+}
