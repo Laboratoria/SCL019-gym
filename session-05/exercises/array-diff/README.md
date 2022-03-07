@@ -13,10 +13,13 @@ projects:
 [https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript](https://www.codewars.com/kata/523f5d21c841566fde000009/train/javascript)
 
 Tu objetivo en este ejercicio es implementar una función de diferencia, la cual
-resta el contenido de un arreglo de otro y devuelve el resultado.
+"resta" un arreglo de otro y devuelve el resultado.
 
-Recuerda que debes eliminar todos los valores del arreglo `a`, que estén presentes
-en el arreglo `b` manteniendo el orden.
+La "resta" entre un arreglo
+`a` y `b` se define así: tomar los elementos de `a` y eliminar los elementos que
+también están presentes en `b`.
+
+Se debe mantener el orden original de los elementos
 
 __Ejemplo 1__
 
