@@ -12,27 +12,27 @@ projects:
 
 [https://leetcode.com/problems/check-if-the-sentence-is-pangram/](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 
-Un **pangrama** es una sentencia donde cada letra del alfabeto Ingles aparece al
+Un **pangrama** es una sentencia donde cada letra del alfabeto inglés aparece al
 menos una vez.
 
-Dado un string `sentence` que contiene solo letras del Ingles en minúscula,
-retorna `true` _si_ `sentence` _es un **pangrama**, or_ `false` _de otra forma_.
+Dado un string `frase` que contiene solo letras del Ingles en minúscula,
+retorna `true` _si_ `frase` _es un **pangrama**, or_ `false` _en otro caso_.
 
 Ejemplo 1
 
-```js
-**Entrada:** sentence = "thequickbrownfoxjumpsoverthelazydog"
-**Salida:** true
-**Explicación**: sentence contiene al menos una de cada letra del alfabeto Ingles
+```
+Entrada: frase = "thequickbrownfoxjumpsoverthelazydog"
+Salida: true
+Explicación: frase contiene al menos una de cada letra del alfabeto inglés
 ```
 
 Ejemplo 2
 
-```js
-**Entrada**: sentence = "leetcode"
-**Salida**: false
+```
+Entrada: frase = "leetcode"
+Salida: false
 ```
 
 > __Importante__ ❗
 >
-> - sentence consiste solo de letras del alfabeto Ingles.
+> - frase consiste solo de letras del alfabeto inglés.
