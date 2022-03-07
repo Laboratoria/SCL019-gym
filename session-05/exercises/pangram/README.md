@@ -15,7 +15,7 @@ projects:
 Un **pangrama** es una sentencia donde cada letra del alfabeto inglés aparece al
 menos una vez.
 
-Dado un string `frase` que contiene solo letras del Ingles en minúscula,
+Dado un string `frase` que contiene solo letras del inglés en minúscula,
 retorna `true` _si_ `frase` _es un **pangrama**, or_ `false` _en otro caso_.
 
 Ejemplo 1
