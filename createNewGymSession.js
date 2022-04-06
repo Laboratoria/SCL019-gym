@@ -31,3 +31,5 @@ if (isSessionCreated(sessionPath)) {
 } else {
   createSession(sessionPath);
 }
+
+// to replace exercises path: sed 's/..\/exercises/exercises/g'
